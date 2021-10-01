@@ -5,7 +5,15 @@ A statistical tool for solving basic statistic distributions
 Gaussian Distribution
 Binoial Distribution
 
-**Basic Usage**
+## Basic Usage
+
+**install**
+
+```
+
+pip install basic-statistic-distributions
+
+```
 
 ```
 
