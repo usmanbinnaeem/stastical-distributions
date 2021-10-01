@@ -21,6 +21,4 @@ mean 4.800000000000001, standard deviation 1.6970562748477143, p 0.4, n 12
 
 ```
 
-goto [basic-statistic-distributions](https://pypi.org/project/basic-statistic-distributions/#description)
-
 &copy [usmanbinnaeem](https://usmannaeem.tk/ "personal portfolio")
